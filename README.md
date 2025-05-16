@@ -1,5 +1,5 @@
 # coding hehe
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_carrotsoup) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunni-xue/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_carrotsoup) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunni-xue/) 
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=carrotsoups&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
